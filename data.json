@@ -1,0 +1,63 @@
+{
+  "login":{
+     "name": [
+       {"storeName":"中邦我道一号店"},
+       {"storeName":"中邦我道二号店"}
+      ],
+	  "logo": "http://qiniu.jobwisdom.cn/system/mobile/image/logo.png"
+  },
+
+  "index":{
+      "name": [
+       {"storeName":"中邦我道三号店"},
+       {"storeName":"中邦我道四号店"}
+      ],
+     "sliderItem":[
+        {"img":"http://qiniu.jobwisdom.cn/system/mobile/image/1.jpg"},
+        {"img":"http://qiniu.jobwisdom.cn/system/mobile/image/2.jpg"},
+        {"img":"http://qiniu.jobwisdom.cn/system/mobile/image/3.jpg"}
+     ],
+      "item":[
+        {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/index.jpg",
+          "itemname":"美白滋润足部spa60min"
+        },
+        {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/helper1.jpg",
+          "itemname":"护肤染发min"
+        },
+         {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/index.jpg",
+          "itemname":"美白滋润足部spa60min"
+        },
+        {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/helper1.jpg",
+          "itemname":"护肤染发min"
+        },
+        {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/index.jpg",
+          "itemname":"美白滋润足部spa60min"
+        }
+      ],
+      "course":[
+         {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/helper1.jpg",
+          "itemname":"护肤染发min"
+        },
+        {
+          "img":"http://qiniu.jobwisdom.cn/system/mobile/image/index.jpg",
+          "itemname":"美白滋润足部spa60min"
+        }   
+      ]
+   },
+   "person":{
+     "name": [
+       {"storeName":"中邦我道三号店"},
+       {"storeName":"中邦我道四号店"}
+      ],
+      "sex":[
+        {"img":"http://qiniu.jobwisdom.cn/system/mobile/image/man_.png"}
+      ],
+      "register":"中邦"
+   }
+}
