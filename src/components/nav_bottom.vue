@@ -15,8 +15,7 @@
 		  </a>
         </ul>		
 	  </div>
-				
-
+			
 </template>
 <script>
 import '../common/js/zepto.min.js'
